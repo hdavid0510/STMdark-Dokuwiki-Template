@@ -1,9 +1,7 @@
-# STM-Dokuwiki-Template
+# STMdark-Dokuwiki-Template
 
-Another simple, clean and responsive theme for dokuwiki, base on the [dokuwiki_template_starter](https://github.com/selfthinker/dokuwiki_template_starter).
-
-## Screenshots
-See screenshots in [examples](examples/).
+Another simple, clean and responsive DARK theme for dokuwiki, base on the [STM-Dokuwiki-Template]
+(https://github.com/fraina/STM-Dokuwiki-Template).
 
 ## License
 GPLv2
